@@ -74,12 +74,14 @@ button{
     margin: auto;
     background-color: var(--Green-500);
     box-shadow:2px 5px  10px 0px hsla(171, 54%, 73%, 1.00);
+    cursor: pointer;
 }
 .button-mac{
     width: clamp(250px , 40% , 300px);
     margin: auto;
     background-color: var(--Blue-100);
     box-shadow:  2px 5px 10px var(--Gray-500);
+    cursor: pointer;
 }
 
 .main{
